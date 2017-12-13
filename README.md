@@ -26,10 +26,3 @@ To use this FAQ plugin, you also need to install the [Polestar Must-Use Plugin.]
 
 1. Navigate to the `wp-content/mu-plugins` folder of your project or create the 'mu-plugins' folder if it does not already exist.
 2. Then type in terminal: `git clone https://github.com/purpleprodigy/Polestar.git`.
-
-## Continue Development
-
-If you want to continue development, you will need to have Gulp, Node.js and npm installed on your machine. 
-
-1. Navigate to the `wp-content/plugins/faq` folder.
-2. Type `npm install` to install all of the `node_modules` for Gulp.
